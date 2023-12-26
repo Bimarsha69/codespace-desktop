@@ -1,4 +1,4 @@
-git clone https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces
+git clone https://github.com/playstation452/codespace-desktop/
 cd DesktopOnCodespaces
 pip install textual
 sleep 2
@@ -9,8 +9,6 @@ cd ..
 sudo apt update
 sudo apt install -y jq
 
-mkdir Save
-cp -r DesktopOnCodespaces/root/config/* Save
 
 json_file="DesktopOnCodespaces/options.json"
 if jq ".enablekvm" "$json_file" | grep -q true; then
