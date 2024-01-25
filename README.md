@@ -1,10 +1,12 @@
-# DesktopOnCodespaces (Beta)
+# DesktopOnCodespaces
 
 [**See Screenshots**]([https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces/src/branch/main/screenshots.m](https://github.com/playstation452/codespace-desktop/blob/main/screenshots.md)d)
 
 > ⚠️ This project is currently a work in progress and is still unfinished. While I'm actively working on it and making progress, there may still be bugs and incomplete features. ⚠️
 
 > it also works on [gitpod](https://gitpod.io/workspaces)
+
+> it can also work on [codeanywhere](https://codeanywhere.com)
 
 > main use is for gamming look at https://github.com/fowntain/base-vm for games
 
