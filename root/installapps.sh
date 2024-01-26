@@ -48,6 +48,10 @@ if jq ".apps | contains([4])" "$json_file" | grep -q true; then
     chmod +x /installable-apps/discord.sh
     /installable-apps/discord.sh
 fi
+if jq ".apps | contains([5])" "$json_file" | grep -q true; then
+    chmod +x /installable-apps/steam.sh
+    /installable-apps/steam.sh
+fi
 
 # clean stuff
 
