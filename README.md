@@ -32,3 +32,6 @@ to install just copy and paste this command in your codespace terminal
 chmod +x install.sh
 ./install.sh
 ```
+
+#credit
+this was echos i just expanded on it
