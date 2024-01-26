@@ -33,5 +33,6 @@ chmod +x install.sh
 ./install.sh
 ```
 
-#credit
+# credit
+
 this was echos i just expanded on it
